@@ -8,7 +8,7 @@ var winSnd = new Audio("audio/win.mp3");
 
 var JSONBingo = {"squares": [
         {"square": "ISO 27001"},
-        {"square": "Coompliance"},
+        {"square": "Compliance"},
         {"square": "Firewall"},
         {"square": "Site Reliability (Engineering)"},
         {"square": "0day"},
@@ -48,6 +48,7 @@ var JSONBingo = {"squares": [
         {"square": "Microsoft Security Development Lifecycle"},
         {"square": "Backdoors"},
         {"square": "historisch gewachsen"},
-        {"square": "Smart ____"}
+        {"square": "Smart ____"},
+        {"sqare": "EDR/XDR"}
     ]
 };
