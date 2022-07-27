@@ -1,4 +1,4 @@
-var footerText = "<a href='https://github.com/codedust/bullshit-bingo' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://github.com/oliverl-21/buzzword-bingo' target='_blank'>Code available on github</a>";
 
 var winText = "Winner";
 
