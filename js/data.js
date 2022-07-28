@@ -49,11 +49,12 @@ var JSONBingo = {"squares": [
         {"square": "Backdoors"},
         {"square": "historisch gewachsen"},
         {"square": "Smart ____"},
-        {"sqare": "EDR/XDR"},
-        {"sqare": "DevOps/SecOps"},
-        {"sqare": "MFA/2FA"},
-        {"sqare": "Legacy ____"},
-        {"sqare": "Backup"},
-        {"sqare": "(Disaster) Recovery"}
+        {"square": "EDR/XDR"},
+        {"square": "DevOps/SecOps"},
+        {"square": "MFA/2FA"},
+        {"square": "Legacy ____"},
+        {"square": "Backup"},
+        {"square": "(Disaster) Recovery"},
+        {"square": "AI/ML"}
     ]
 };
